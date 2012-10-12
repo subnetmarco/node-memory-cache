@@ -8,9 +8,9 @@ A simple in memory cache module for node.js
 
 # Features
 
-* Supports multiple properties for every object
+* Supports multiple properties on cached objects
 * Supports counters
-* Supports different expiration dates on the object properties.
+* Supports different expiration dates on properties.
 
 # Support
 
