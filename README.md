@@ -1,4 +1,4 @@
-# node-mem-cache
+# node-memory-cache
 
 A simple in memory cache module for node.js
 
