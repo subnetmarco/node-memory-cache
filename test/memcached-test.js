@@ -1,6 +1,6 @@
 var vows = require('vows'),
     assert = require('assert'),
-	cache = require('./../lib/cache');
+	cache = require('./../lib/node-mem-cache');
 
 function sleep(ms) {
 	var now = new Date().getTime();

@@ -1,6 +1,6 @@
 {
     "name": "node-mem-cache",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "An in-memory cache module.",
     "author": "Marco Palladino <marco@mashape.com>",
     "homepage":"http://www.mashape.com",
