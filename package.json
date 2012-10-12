@@ -12,8 +12,7 @@
     },
 	"devDependencies": {
 	        "vows": "0.6.3"
-	},
-    "bin" : { "zencounter" : "bin/main.js" },
+	}
     "license" : "GNU AFFERO GENERAL PUBLIC LICENSE",
     "repository" : { 
     "type" : "git", 
