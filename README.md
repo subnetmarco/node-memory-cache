@@ -4,7 +4,7 @@ A simple in memory cache module for node.js
 
 # Installation
 
-`npm install node-mem-cache`
+`npm install node-memory-cache`
 
 # Features
 
