@@ -2,24 +2,23 @@
     "name": "node-mem-cache",
     "version": "0.0.1",
     "description": "An in-memory cache module.",
-    "author": "Mashape <support@mashape.com>",
+    "author": "Marco Palladino <marco@mashape.com>",
     "homepage":"http://www.mashape.com",
     "dependencies": {
     },
-    "private": true,
     "engines": {
         "node": ">= 0.8.11"
     },
 	"devDependencies": {
 	        "vows": "0.6.3"
-	}
-    "license" : "GNU AFFERO GENERAL PUBLIC LICENSE",
+	},
+    "license": "GNU AFFERO GENERAL PUBLIC LICENSE",
     "repository" : { 
     "type" : "git", 
 	"url" : "https://github.com/thefosk/node-mem-cache"
     },
     "bugs" : {
 	"url" : "https://github.com/thefosk/node-mem-cache/issues",
-	"email" : "support@mashape.com"
+	"email" : "marco@mashape.com"
     }
 }
