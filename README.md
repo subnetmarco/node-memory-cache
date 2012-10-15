@@ -1,6 +1,6 @@
 # node-memory-cache
 
-A simple in memory cache module for node.js
+An in-memory cache module for node.js
 
 * Key/Value store, except that for each key you can store multiple properties, like: `key.property1` or `key.property2`.
 * Native support for counters.
