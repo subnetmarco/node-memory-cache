@@ -1,6 +1,6 @@
 {
     "name": "node-memory-cache",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "An in-memory cache implementation.",
     "author": "Marco Palladino <marco@mashape.com>",
     "homepage":"https://github.com/thefosk/node-memory-cache",
