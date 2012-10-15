@@ -2,7 +2,7 @@
 
 A simple in memory cache module for node.js
 
-* Key/Value store, except that for each Key you can store multiple properties, like: `key.property1` or `key.property2`.
+* Key/Value store, except that for each key you can store multiple properties, like: `key.property1` or `key.property2`.
 * Native support for counters.
 * You can set different expirations on properties, like: `key.property1` expires every 1000ms, and `key.property2` expires every 5000ms.
 
