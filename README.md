@@ -2,9 +2,9 @@
 
 A simple in memory cache module for node.js
 
-* Supports multiple properties on cached objects
-* Supports counters
-* Supports different expiration dates on properties.
+* Key/Value store, except that for each Key you can store different Properties, like `key.property1` or `key.property2`.
+* Native support for counters.
+* You can set different expiration dates on properties.
 
 # Installation
 
